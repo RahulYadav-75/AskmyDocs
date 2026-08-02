@@ -133,7 +133,7 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
-![Final Output]https://github.com/RahulYadav-75/AskmyDocs/blob/main/Final_output.png
+![Final Output](https://github.com/RahulYadav-75/AskmyDocs/blob/main/Final_output.png)
 
 Example:
 
