@@ -133,8 +133,7 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
-"C:\Users\ry815\OneDrive\Pictures\Screenshots\Final_output.png"
-Add screenshots of the application here.
+![Final Output]https://github.com/RahulYadav-75/AskmyDocs/blob/main/Final_output.png
 
 Example:
 
