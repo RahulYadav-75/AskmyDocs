@@ -135,15 +135,6 @@ streamlit run app.py
 ## 📸 Screenshots
 ![Final Output](https://github.com/RahulYadav-75/AskmyDocs/blob/main/Final_output.png)
 
-Example:
-
-```
-images/
-├── home.png
-├── upload.png
-└── answer.png
-```
-
 ---
 
 ## 🎯 Future Improvements
